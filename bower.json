@@ -1,0 +1,16 @@
+{
+  "name": "Backbone-Boilerplate",
+  "version": "0.0.0",
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "bootstrap": "~3.3.2",
+    "requirejs": "~2.1.16",
+    "handlebars": "~3.0.0",
+    "backbone.stickit": "~0.9.0"
+  },
+  "devDependencies": {
+    "jasmine": "~2.2.1"
+  },
+  "appPath": "app",
+  "moduleName": "Backbone-Boilerplate"
+}
